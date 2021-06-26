@@ -16,7 +16,7 @@
 
 ## Description
 
--   Template for project use Webpack
+-   Template project use Webpack
 -   Use:
     -   Webpack: 5.x.x
     -   Bootstrap: 4.6.x
