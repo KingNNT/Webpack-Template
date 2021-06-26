@@ -11,3 +11,38 @@
 -   Github Profile: [Ninh Ngọc Tuấn](https://github.com/KingNNT/)
 -   Gitlap Profile: [Ninh Ngọc Tuấn](https://gitlab.com/Dev.KingNNT/)
 -   Bitbucket Profile: [https://bitbucket.org/KingNNT/](https://bitbucket.org/KingNNT/)
+
+---
+
+## How to use
+
+1. Open terminal and run:
+
+```
+git clone git@github.com:KingNNT/Webpack-Template.git
+```
+
+2. After clone successfully. Run:
+
+```
+yarn run install
+```
+
+3. After edit enviroment at file `.env`
+4. Run:
+
+```
+yarn run build
+```
+
+## Option Run
+
+|    Command     |                            Meaning                            |
+| :------------: | :-----------------------------------------------------------: |
+| yarn run build |             Build with enviroment of `.env` file              |
+|  yarn run dev  |            Build with enviroment is `development`             |
+| yarn run watch | Build with enviroment is `development` but track file changes |
+| yarn run prod  |             Build with enviroment is `production`             |
+| yarn run clean |            Remove `dist` and `node_modules` folder            |
+
+---
