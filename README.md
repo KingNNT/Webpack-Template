@@ -14,6 +14,16 @@
 
 ---
 
+## Description
+
+-   Template for project use Webpack
+-   Use:
+    -   Webpack: 5.x.x
+    -   Bootstrap: 4.6.x
+    -   Jquery: 3.x.x
+    -   Popper: 2.x.x
+    -   Font-awesome: 5.x.x
+
 ## How to use
 
 1. Open terminal and run:
@@ -46,3 +56,7 @@ yarn run build
 | yarn run clean |            Remove `dist` and `node_modules` folder            |
 
 ---
+
+### NOTE
+
+-   Have bug at font of font-awesome when build project (26/07/2021)
